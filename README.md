@@ -27,23 +27,25 @@ npm start
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Homepage
-![Homepage]("C:\Users\ANUSHA\OneDrive\Desktop\ECOMMERCE REACT\frontend\screenshots\Screenshot (85).png")
+![Homepage](frontend/screenshots/Screenshot(85).png)
 
-### 🏠 Loginpage
-![Loginpage]("C:\Users\ANUSHA\OneDrive\Desktop\ECOMMERCE REACT\frontend\screenshots\Screenshot (88).png")
-
-### 🛍️ Product Page
-![Product Page]("C:\Users\ANUSHA\OneDrive\Desktop\ECOMMERCE REACT\frontend\screenshots\Screenshot (86).png")
+### 🔐 Loginpage
+![Loginpage](frontend/screenshots/Screenshot(88).png)
 
 ### 🛍️ Product Page
-![Product Page]("C:\Users\ANUSHA\OneDrive\Desktop\ECOMMERCE REACT\frontend\screenshots\Screenshot (87).png")
+![Product Page](frontend/screenshots/Screenshot(86).png)
 
-### 🧾 Cart
-![Cart]("C:\Users\ANUSHA\OneDrive\Desktop\ECOMMERCE REACT\frontend\screenshots\Screenshot (90).png")
+### 🛒 Cart
+![Cart](frontend/screenshots/Screenshot(90).png)
 
-### 🧾 Cart
-![Cart]("C:\Users\ANUSHA\OneDrive\Desktop\ECOMMERCE REACT\frontend\screenshots\Screenshot (89).png")
+### 🛒 Cart
+![Cart](frontend/screenshots/Screenshot(89).png)
+
+
+
 
 
 
