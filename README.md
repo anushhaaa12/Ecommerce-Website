@@ -29,34 +29,18 @@ npm start
 
 ## 📸 Screenshots
 
-## 🏠 Homepage
-![Homepage](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(85).png?raw=true)
-
-## 🔐 Login Page
-![Login Page](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(88).png?raw=true)
-
-## 🛍️ Product Page
-![Product Page](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(86).png?raw=true)
-
-## 🛒 Cart
-![Cart](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(90).png?raw=true)
-
-## 🛒 Cart
-![Cart](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(89).png?raw=true)
-
-## 📸 Screenshots
-
 ### 🏠 Homepage
-![Homepage](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(85).png?raw=true)
+![Homepage](frontend/screenshots/homepage.png)
 
-### 🔐 Login Page
-![Login Page](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(88).png?raw=true)
+### 🔐 Loginpage
+![Loginpage](frontend/screenshots/loginpage.png)
 
 ### 🛍️ Product Page
-![Product Page](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(86).png?raw=true)
+![Product Page](frontend/screenshots/homepage2.png)
 
 ### 🛒 Cart
-![Cart](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(90).png?raw=true)
+![Cart](frontend/screenshots/cart.png)
+
 
 
 
