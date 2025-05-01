@@ -25,24 +25,24 @@ cd Ecommerce-Website/frontend
 npm install
 npm start
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 
-### 🏠 Homepage
-![Homepage](frontend/screenshots/Screenshot(85).png)
+## 🏠 Homepage
+![Homepage](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(85).png?raw=true)
 
-### 🔐 Loginpage
-![Loginpage](frontend/screenshots/Screenshot(88).png)
+## 🔐 Login Page
+![Login Page](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(88).png?raw=true)
 
-### 🛍️ Product Page
-![Product Page](frontend/screenshots/Screenshot(86).png)
+## 🛍️ Product Page
+![Product Page](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(86).png?raw=true)
 
-### 🛒 Cart
-![Cart](frontend/screenshots/Screenshot(90).png)
+## 🛒 Cart
+![Cart](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(90).png?raw=true)
 
-### 🛒 Cart
-![Cart](frontend/screenshots/Screenshot(89).png)
+## 🛒 Cart
+![Cart](https://github.com/anushhaaa12/Ecommerce-Website/blob/main/frontend/screenshots/Screenshot(89).png?raw=true)
 
 
 
