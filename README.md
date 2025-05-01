@@ -25,24 +25,22 @@ cd Ecommerce-Website/frontend
 npm install
 npm start
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](frontend/screenshots/Screenshot(85).png)
+![Homepage](frontend/screenshots/homepage.png)
 
 ### 🔐 Loginpage
-![Loginpage](frontend/screenshots/Screenshot(88).png)
+![Loginpage](frontend/screenshots/loginpage.png)
 
 ### 🛍️ Product Page
-![Product Page](frontend/screenshots/Screenshot(86).png)
+![Product Page](frontend/screenshots/homepage2.png)
 
 ### 🛒 Cart
-![Cart](frontend/screenshots/Screenshot(90).png)
+![Cart](frontend/screenshots/cart.png)
 
-### 🛒 Cart
-![Cart](frontend/screenshots/Screenshot(89).png)
 
 
 
